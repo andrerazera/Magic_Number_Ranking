@@ -4,3 +4,10 @@
 "This is not an investing recomendation"
 
 ![ScreenShot](Screenshot_8.png)
+
+
+
+### Feature applied n 1 (29 July 2021)
+#### Get the last processed result date
+
+![ScreenShot](Screenshot_29072021_01.png)
