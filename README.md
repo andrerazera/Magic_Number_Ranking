@@ -20,4 +20,4 @@
 
 ### Feature applied n3 (24 August 2021)
 #### Comparison of the ranking versus the last processed ranking to gather the deviations.
-![ScreenShot](Screenshot_29072021_10.png)
+![ScreenShot](Screenshot_10.png)
