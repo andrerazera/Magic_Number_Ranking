@@ -21,3 +21,7 @@
 ### Feature applied n3 (24 August 2021)
 #### Comparison of the ranking versus the last processed ranking to gather the deviations.
 ![ScreenShot](Screenshot_10.png)
+
+### Feature applied n4 (26 August 2021)
+#### Replace output files for a SQLite database that segregate the rankings through a timestamp field.
+![ScreenShot](Screenshot_11.png)
